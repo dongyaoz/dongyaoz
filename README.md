@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dongyaoz
-- 👀 I’m interested in computer vision, image processing.
-- 🌱 I’m currently a ECE master student in University of Michigan.
+- 👀 I’m interested in machine learning, computer vision, artificial intelligence, robotics, etc.
+- 🌱 I earned my Master's Degree in ECE from University of Michigan.
 - 📫 my email: dongyaoz@umich.edu
 
 <!---
